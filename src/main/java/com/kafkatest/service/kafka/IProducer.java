@@ -1,7 +1,7 @@
-package com.kafkatest.kafka;
+package com.kafkatest.service.kafka;
 
 import com.kafkatest.model.User;
 
-public interface ISender {
+public interface IProducer {
     void send(String topicName, User user);
 }

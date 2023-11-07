@@ -1,4 +1,4 @@
-package com.kafkatest.kafka;
+package com.kafkatest.service.kafka;
 
 import com.kafkatest.model.User;
 import org.springframework.stereotype.Service;
